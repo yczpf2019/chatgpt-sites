@@ -1459,23 +1459,6 @@
 - 欢迎自荐您的站点。如果您的站点可以稳定长期运行、使用收费 API KEY 且免费使用，可增加推荐星级。
 - more...
 
-站点配置信息在 `site-info.json` 文件中设置，基本格式为：
-
-```ts
-{
-  "https://gpt.demo.com": {
-      "repo": 'lzwme/gpt-demo', // 来源仓库
-      "invalid": '20230310',    // 已失效，标注发现时间
-      "star": 1,                // 推荐星级，0-3。0 用于标记可访问但不可用、使用受限
-      "hide": 0,                // 不显示在列表中，失效并将移除
-      "needKey": 0,             // 是否需要自己输入 API KEY
-      "needPwd": 0,             // 是否需要密码、账号登录才能访问
-      "needPay": 0,             // 付费应用
-      "needVerify": 0,          // 需人工验证确认状态。-1 表示可用且无需程序验证
-      "desc": "描述",
-  },
-}
-```
 
 ## 声明
 
@@ -1484,5 +1467,5 @@
 
 部分网站来自
 
-https://github.com/lzwme/chatgpt-sites
+https://github.com/lzwme/chatgpt-sites  
 https://github.com/xx025/carrot
