@@ -9,6 +9,7 @@
 - 程序自动抓取开源仓库信息。定时任务每日更新。
 - More...
 
+[![pages-build-deployment](https://github.com/muzihuaner/chatgpt-sites/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/muzihuaner/chatgpt-sites/actions/workflows/pages/pages-build-deployment)
 
 <p>微信公众号</p>
 <p><img alt="感谢支持！" src="https://gcore.jsdelivr.net/gh/muzihuaner/huancdn/img/20210520145355.webp" width="100" height="100" /></p>
