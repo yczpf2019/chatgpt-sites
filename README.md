@@ -9,9 +9,6 @@
 - 程序自动抓取开源仓库信息。定时任务每日更新。
 - More...
 
-[![bot](https://github.com/muzihuaner/chatgpt-sites/actions/workflows/bot.yml/badge.svg)](https://github.com/muzihuaner/chatgpt-sites/actions/workflows/bot.yml)
-[![Deploy static content to Pages](https://github.com/muzihuaner/chatgpt-sites/actions/workflows/static.yml/badge.svg)](https://github.com/muzihuaner/chatgpt-sites/actions/workflows/static.yml)
-[![pages-build-deployment](https://github.com/muzihuaner/chatgpt-sites/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/muzihuaner/chatgpt-sites/actions/workflows/pages/pages-build-deployment)
 
 <p>微信公众号</p>
 <p><img alt="感谢支持！" src="https://gcore.jsdelivr.net/gh/muzihuaner/huancdn/img/20210520145355.webp" width="100" height="100" /></p>
@@ -148,6 +145,7 @@
 117. [⭐⭐] http://aipro.alkj.cc/
 
 118. https://weekendproject.space/chat-gpt-online.html
+
 
 妙站
 下面这些站点也很有趣
@@ -1482,3 +1480,9 @@
 ## 声明
 
 以上体验站点来源于网络收集、GitHub 开源仓库信息搜集和网友推荐。若您的站点不希望被公开访问，应当设置密码等安全防范措施。若有侵权请提 [Issues](https://github.com/muzihuaner/chatgpt-sites/issues) 处理。
+
+
+部分网站来自
+
+https://github.com/lzwme/chatgpt-sites
+https://github.com/xx025/carrot
