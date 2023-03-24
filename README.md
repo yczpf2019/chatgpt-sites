@@ -1495,6 +1495,10 @@
 以上体验站点来源于网络收集、GitHub 开源仓库信息搜集和网友推荐。若您的站点不希望被公开访问，应当设置密码等安全防范措施。若有侵权请提 [Issues](https://github.com/muzihuaner/chatgpt-sites/issues) 处理。
 
 
+## 访问统计
+
+ <img src="https://count.getloli.com/get/@:chatgpt-sites" alt=":chatgpt-sites" />
+
 部分网站来自
 
 https://github.com/lzwme/chatgpt-sites  
